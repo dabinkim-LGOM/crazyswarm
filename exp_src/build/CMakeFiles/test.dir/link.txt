@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test.dir/src/main.cpp.o CMakeFiles/test.dir/src/Wrapper.cpp.o -o test  -llibmotioncapture -lpthread /usr/lib/x86_64-linux-gnu/libboost_system.so 
